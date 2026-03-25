@@ -5,7 +5,7 @@ This project analyzes Netflix's catalog of movies and TV shows to identify trend
 
 The dashboard was built using Google Sheets, focusing on data cleaning, analysis, and visualization.
 
-
+  
 ## Tools Used
 - Google Sheets
 - Pivot Tables
